@@ -271,6 +271,10 @@
 .monsoon var {
   font: 12px Monaco, monospace;
 }
+
+.monsoon img{
+  max-width: 100%;
+}
 /* ------------------------------------------- */
 
 /* =preformatted text
